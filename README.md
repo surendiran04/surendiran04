@@ -1,13 +1,4 @@
-# Surendiran
-![Surendiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendiran04&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendiran04&layout=pie)]((https://github.com/surendiran04))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendiran04&hide=html,css)
 
-## Hi there 👋 It's me Surendiran
-Computer Science Engineering Student
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://surendiran04.github.io/Portfolio/)                                              
-- 🌱 I’m currently learning DSA & Development
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Surendiran</h1>
 <h3 align="center">Computer Science Engineering Student👨‍💻 </h3>
@@ -47,6 +38,8 @@ Computer Science Engineering Student
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
+![Surendiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendiran04&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendiran04&hide=html,css)
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/surendiran04&layout=compact&theme=" alt=https://github.com/surendiran04 />
 
