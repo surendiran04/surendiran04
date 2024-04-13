@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surendiran04&hide=html,css)
 
 ## Hi there 👋 It's me Surendiran
-
+Computer Science Engineering Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://surendiran04.github.io/Portfolio/)                                              
 - 🌱 I’m currently learning DSA & Development
