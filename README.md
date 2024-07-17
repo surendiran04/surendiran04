@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Surendiran</h1>
 <h3 align="center">Computer Science Engineering Student👨‍💻 </h3>
 - 🌱 I’m currently learning **Full Stack development & DSA**
-- 💬 Ask me about **MERN stack, DSA, Problem-solving **
+- 💬 I’m currently learning ** MERN stack, DSA, Problem-solving **
 - 📫 How to reach me **surendiran.m2004@gmail.com**
 - 👨‍💻 All of my projects are available at **https://surendiran04.github.io/Portfolio/**
 - ⚡ Fun fact **I think I am a developer**
