@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+
 <a href="#"><img width="100%" src="https://github.com/Vasu1712/Vasu1712/blob/22797c86c0213f0f425bf224f8ceea59d6c09a52/avatar.svg" height="250px"/></a>
 <h1 align="center">Hi 👋, I'm Surendiran</h1>
 
