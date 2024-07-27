@@ -33,12 +33,12 @@
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
      <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="postgreSQL" width="48" height="48"/> </a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="postman" width="45" height="45"/> </a>   
+<!--     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
+    <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png" alt="postman" width="45" height="45"/> </a>    -->
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
      <a href="https://postman.com" target="_blank"> <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/> </a>
-     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.ASkbzV1btB5QPvuK4B4F0gHaF4?rs=1&pid=ImgDetMain" alt="AWS" width="40" height="40"/> </a>
+<!--      <a href="https://aws.amazon.com/" target="_blank"> <img src="https://th.bing.com/th/id/OIP.ASkbzV1btB5QPvuK4B4F0gHaF4?rs=1&pid=ImgDetMain" alt="AWS" width="40" height="40"/> </a> -->
 </p>
 
 <!-- ![Surendiran's GitHub stats](https://github-readme-stats.vercel.app/api?username=surendiran04&show_icons=true&theme=synthwave)
