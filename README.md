@@ -7,7 +7,7 @@
 - 🌱 Pre-final year student at College of Engineering, Guindy Chennai
 - 💬 I’m currently learning **Full stack web development, DSA, Problem-solving**
 - 📫 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **https://surendiran04.github.io/Portfolio/**
+- 👨‍💻 To know more about me check this out **https://surendiran04.github.io/Portfolio/**
 - ⚡ Fun fact **I think I am a developer**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/surendiran-m-488082276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
