@@ -5,7 +5,7 @@
 ##  🙋‍♂️ About Me
  
 - 🌱 Pre-final year student at College of Engineering, Guindy Chennai
-- 💬 I’m currently learning **Full stack web development, DSA, Problem-solving**
+- 💬 I’m currently learning **Full stack web development, DSA, Problem-solving, Machine Learning etc...**
 - 📫 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 To know more about me check this out **https://surendiran04.github.io/Portfolio/**
 - ⚡ Fun fact **I think I am a developer**
