@@ -10,7 +10,7 @@
 - 👨‍💻 To know more about me check this out **https://surendiran04.github.io/Portfolio/**
 - ⚡ Fun fact **I think I am a developer**
 
-<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/surendiran-m-488082276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div> <a href="https://www.linkedin.com/in/surendiran-m-488082276/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:surendiran.m2004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ## Connect with me:
